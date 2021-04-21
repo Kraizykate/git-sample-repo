@@ -1,5 +1,17 @@
 git status -> prints the status of the Git Repository
 git init ->initializes the Git Repository
+git config --global user.name "Let's Kode It"
+git config --global user.email letskodeit@gmail.com
+git config user.name "Let's Kode It"
+git config user.email letskodeit@gmail.com
+git add
+git commit -m ""
+git log
+Git digg <filename>
+
+===================================================
+
+
 git config --global user.name "Let's Kode It" -->specify username globally
 git config --global user.email letskodeit@gmail.com -->specify email globally
 git config user.name "Let's Kode It" -->specify username for particular repository
@@ -12,3 +24,6 @@ git remote add origin <Github Repository URL> --> establish connection to the re
 git push origin master -->push to master branch
 
 this is from desktop copy
+
+help help huehue
+=======
